@@ -1,0 +1,41 @@
+информация о подключении к базе данных: 
+Имя базы данных: isssistem p8132_isssistem
+Имя пользователя: isssistem p8132_isssistem
+Пароль: пусой  3%An&I$WNcCbevwNgJ 
+cервер базы данных:localhost hostink.ru
+
+информация о подключении к админке:
+Имя пользователя: issadmin
+Пароль: C)h0$9muKX3sS7CYO(
+Имя пользователя: issredactor
+Пароль: C)h0$9muKX3sS7CYO(
+Имя пользователя: issautor
+Пароль: C)h0$9muKX3sS7CYO(
+Имя пользователя: issparticipant
+Пароль: C)h0$9muKX3sS7CYO(
+Имя пользователя: isssubscriber
+Пароль: C)h0$9muKX3sS7CYO(
+
+mail.ru
+Имя:     iss
+Фамилия: md 
+Почтовый ящик: iss.md@mail.ru
+Пароль: W!fL%AA2pUM5W&#Nsv
+
+E-mail:vl.com.md2@mail.ru
+Имя Субдомена: iss-sistem.ucoz.net
+Пароль:46938519
+
+
+
+
+
+
+
+
+
+
+
+
+3%An&I$WNcCbevwNgJ
+&HcK3PpGgeLbCU8vvTm*WPkV
